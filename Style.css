@@ -1,0 +1,49 @@
+#heading1{
+   /* border-width: 3px;
+    border-style: solid;
+    border-color: cyan;*/
+
+    /*border : 3px solid cyan;*/
+   /*  border-left: 4px solid cyan;*/
+  /* border-right: 4px solid cyan;*/
+  /*border-top: 4px solid cyan;*/
+  border-bottom: 4px solid cyan;
+  border-left: 6px dotted red;
+  border-top: 8px dashed blue;
+
+}
+
+div{
+    height: 200px;
+    width: 200px;
+    border: 5px solid brown;
+}
+
+#heading2{
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline cyan 10px;
+    /*text-decoration-color: cyan;
+    text-decoration-thickness: 5px;*/
+
+}
+ #para1{
+      word-spacing: 3px;
+      letter-spacing: 3px;
+      line-height: 30px;
+      font-size: 15px;
+      font-family: 'Courier New', Courier, monospace;
+      font-family: 'Times New Roman', Times, serif;
+ }
+ ul{
+    list-style-type: square;
+    list-style-image: url('https://pix8.agoda.net/hotelImages/720/720485/720485_14090117290021752254.jpg?ca=2&ce=1&s=512x384');
+  /* border: 2px solid red;*/
+   list-style-position: inside;
+
+ }
+ li{
+    border: 2px solid red;
+
+
+ }
